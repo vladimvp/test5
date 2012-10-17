@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<fileversions>
+	<file id="129948656369921687-55zr76v7" version="1" path="style/menu.css" />
+	<file id="129948656370077941-9ucf2j6d" version="1" path="style/ie.css" />
+	<file id="129948656383672039-a0pm711m" version="1" path="menu/sub.png" />
+	<file id="129948656383828293-khsa2w98" version="1" path="menu/sub_h.png" />
+	<file id="129948656383984547-c6rb133v" version="1" path="menu/sub_f.png" />
+	<file id="129948656383984547-716b086v" version="1" path="menu/sub_m.png" />
+	<file id="129948656384140801-716b086v" version="1" path="menu/sub_l.png" />
+	<file id="129948656384297055-2hupp5l2" version="1" path="menu/sub_f_h.png" />
+	<file id="129948656384453309-8s7qnbt1" version="1" path="menu/sub_m_h.png" />
+	<file id="129948656384453309-p176knce" version="1" path="menu/sub_l_h.png" />
+	<file id="129948656385859595-28z34dd2" version="5" path="sitemap.xml" />
+	<file id="129948656386015849-ra0x0vxq" version="0" path="style\reset.css" />
+	<file id="129948656386172103-34bx9igp" version="0" path="style\print.css" />
+	<file id="129948656386328357-7q1l4a09" version="0" path="style/style.css" />
+	<file id="129948656386484611-4bem3n3z" version="1" path="res/x5settings.js" />
+	<file id="129948656386484611-dmdm206z" version="0" path="res\swfobject.js" />
+	<file id="129948656386640865-dmdm206z" version="0" path="res\jquery.js" />
+	<file id="129948656386797119-o6gau7n3" version="0" path="res\x5engine.js" />
+	<file id="129948656386953373-2cgbr2v3" version="0" path="res\x5cartengine.js" />
+	<file id="129948656387109627-9m20psdi" version="0" path="res/x5settings.php" />
+	<file id="129948656387265881-36ipdly6" version="6" path="res/search.inc.php" />
+	<file id="129948656387422135-b13qaxh6" version="0" path="res\x5engine.php" />
+	<file id="129948656387578389-4ikdoq0b" version="0" path="res\imlogout.php" />
+	<file id="129948656387734643-d73e4d40" version="0" path="captcha\imcaptcha.php" />
+	<file id="129948656387890897-813f3670" version="0" path="res\expressInstall.swf" />
+	<file id="129948656388047151-gi4s83nk" version="0" path="res\imImage.swf" />
+	<file id="129948656388203405-9t4t78wk" version="0" path="res\imPanZoom.swf" />
+	<file id="129948656388359659-q1l763e3" version="0" path="res\imGallery.swf" />
+	<file id="129948656388515913-aj5i20zt" version="0" path="res\imVideo.swf" />
+	<file id="129948656388672167-suoi1nit" version="0" path="res\imSound.swf" />
+	<file id="129948656388828421-d96wqf11" version="0" path="res\imsearch.png" />
+	<file id="129948656388984675-8kqxos41" version="0" path="res\date.gif" />
+	<file id="129948656389140929-5vqxl17c" version="0" path="res\info.gif" />
+	<file id="129948656389297183-90slzx54" version="0" path="res\imLoad.gif" />
+	<file id="129948656389453437-p4smw384" version="0" path="res\imClose.png" />
+	<file id="129948656389609691-hwr4u82l" version="0" path="res\imArrT.gif" />
+	<file id="129948656389609691-s0uah6a8" version="0" path="res\imArrB.gif" />
+	<file id="129948656389765945-s0uah6a8" version="0" path="res\imArrL.gif" />
+	<file id="129948656389922199-34ubfci8" version="0" path="res\imArrR.gif" />
+	<file id="129948656390078453-7rxo781e" version="0" path="res\ShareCount1.gif" />
+	<file id="129948656390234707-4cwp6h4e" version="0" path="res\ShareCount2.gif" />
+	<file id="129948656390390961-e58q5u71" version="0" path="res\ToolBox1.gif" />
+	<file id="129948656390547215-pszd0m5n" version="0" path="res\ToolBox2.gif" />
+	<file id="129948656390703469-hd9e999n" version="0" path="res\ToolBox3.gif" />
+	<file id="129948656390859723-9n928425" version="0" path="res\imIconMenuLeft.gif" />
+	<file id="129948656391015977-370s41bw" version="0" path="res\video_thumb.png" />
+	<file id="129948656391015977-0d0t36jw" version="0" path="res\separatorh.png" />
+	<file id="129948656391172231-0d0t36jw" version="0" path="res\separatorv.png" />
+	<file id="129948656391328485-431hv312" version="0" path="res\imfolder_closed.gif" />
+	<file id="129948656391484739-e71itx52" version="0" path="res\imfolder_open.gif" />
+	<file id="129948656391484739-81ciqj8f" version="0" path="res\impage.gif" />
+	<file id="129948656391640993-81ciqj8f" version="0" path="res\exclamation.png" />
+	<file id="129948656391797247-gk2wec65" version="0" path="res\l10n.php" />
+	<file id="129948656391953501-98exbp95" version="0" path="res\l10n.js" />
+	<file id="129948656392109755-q2e9z02o" version="0" path="res/access.inc.php" />
+	<file id="129948656392266009-0khlm7c9" version="1" path="res/imemail.inc.php" />
+	<file id="129948656392578517-d0jz99fh" version="1" path="captcha\imcpa_7ck.gif" />
+	<file id="129948656392734771-vlja8mnh" version="1" path="captcha\imcpa_ejk.gif" />
+	<file id="129948656392891025-5w307zw2" version="1" path="captcha\imcpa_cs4.gif" />
+	<file id="129948656393047279-90lo2r6r" version="1" path="captcha\imcpa_fdv.gif" />
+	<file id="129948656393047279-q44p1e9q" version="1" path="captcha\imcpa_m78.gif" />
+	<file id="129948656393203533-q44p1e9q" version="1" path="captcha\imcpa_whf.gif" />
+	<file id="129948656393359787-ix460636" version="1" path="captcha\imcpa_pha.gif" />
+	<file id="129948656393516041-t05d53ca" version="1" path="captcha\imcpa_lwx.gif" />
+	<file id="129948656393672295-454em8la" version="1" path="captcha\imcpa_8ea.gif" />
+	<file id="129948656393828549-vs6sa5g3" version="1" path="captcha\imcpa_vcm.gif" />
+	<file id="129948656393984803-515sx0o3" version="1" path="captcha\imkeys.php" />
+	<file id="129948663236281426-4k0s52u4" version="1" path="menu/index.png" />
+	<file id="129948663236437681-dv0t47cl" version="1" path="menu/index_h.png" />
+	<file id="129948663236593936-5012y497" version="1" path="menu/----------1.png" />
+	<file id="129948663236750191-fl1hwx27" version="1" path="menu/----------1_h.png" />
+	<file id="129948663236906446-9wditk57" version="1" path="menu/----------2.png" />
+	<file id="129948663237062701-302vhdjd" version="1" path="menu/----------2_h.png" />
+	<file id="129948663237218956-04gweqr1" version="1" path="menu/----------3.png" />
+	<file id="129948663237375211-sxfxc1a1" version="1" path="menu/----------3_h.png" />
+	<file id="129948663238781506-u75d74v5" version="1" path="images\Olympics.jpg" />
+	<file id="129948663238937761-4f5d68eo" version="1" path="images\Brehomet.jpg" />
+	<file id="129948663239094016-8466d699" version="1" path="files\Leningrad.jpg" />
+	<file id="129948663239250271-586sb129" version="1" path="images\Leningrad.jpg" />
+	<file id="129948663239406526-g26typ69" version="1" path="images\Keep_your_mouth_shut.jpg" />
+	<file id="129948664589449726-7a81ib0f" version="1" path="style\top.png" />
+	<file id="129948664589449726-12y68t85" version="1" path="style\bottom.png" />
+	<file id="129948664589605981-12y68t85" version="1" path="style\template.css" />
+	<file id="129948664589762236-8q967225" version="1" path="style\menu.png" />
+	<file id="129948664589918491-ob8s675p" version="1" path="style\content.png" />
+	<file id="129948664589918491-r6921yr9" version="1" path="style\bg.jpg" />
+	<page id="0" lastmodified="2012-10-16 17:07:39" path="index.html" upath="index.html" construction="False" />
+	<page id="3" lastmodified="2012-10-16 17:07:39" path="----------1.html" upath="----------1.html" construction="False" />
+	<page id="4" lastmodified="2012-10-16 17:07:39" path="----------2.html" upath="----------2.html" construction="False" />
+	<page id="5" lastmodified="2012-10-16 17:05:24" path="----------3.html" upath="----------3.html" construction="False" />
+	<page id="-9" lastmodified="2012-10-16 17:07:39" path="imsearch.html" upath="imsearch.php" construction="False" />
+	<page id="-8" lastmodified="2012-10-16 17:07:39" path="imsitemap.html" upath="imsitemap.html" construction="False" />
+</fileversions>
